@@ -55,8 +55,6 @@ O jogador escolhe entre duas classes (`Guerreiro` ou `Mago`) e enfrenta um inimi
 
 ## 📂 Estrutura do Repositório
 
-## 📂 Estrutura do Repositório
-
 ```text
 rpg/
 ├── src/
