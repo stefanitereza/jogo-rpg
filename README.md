@@ -55,14 +55,17 @@ O jogador escolhe entre duas classes (`Guerreiro` ou `Mago`) e enfrenta um inimi
 
 ## 📂 Estrutura do Repositório
 
+## 📂 Estrutura do Repositório
+
+```text
+rpg/
 ├── src/
-│   ├── HabilidadeEspecial.java
-│   ├── Personagem.java
 │   ├── Guerreiro.java
+│   ├── HabilidadeEspecial.java
 │   ├── Mago.java
-│   └── Main.java
+│   ├── Main.java
+│   └── Personagem.java
 ├── .gitignore
 └── README.md
-
 
 ---
